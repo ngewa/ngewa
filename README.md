@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills. Here you'll find some of the projects I've been working on.
 
+![Profile views](https://komarev.com/ghpvc/?username=ngewa&color=blue)
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **[insert technology or language you're learning]**
@@ -17,9 +19,17 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - **Tools**: [insert list of tools you use]
 - **Databases**: [insert list of databases you work with]
 
+## 📊 Wakatime Stats
+
+![Ngewa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ngewa&layout=compact&theme=radical)
+
 ## 📈 GitHub Stats
 
 ![Ngewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngewa&show_icons=true&theme=radical)
+
+## 💻 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngewa&layout=compact&theme=radical)
 
 ## 🏆 Top Repositories
 
